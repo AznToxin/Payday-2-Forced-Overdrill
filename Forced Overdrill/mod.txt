@@ -5,9 +5,6 @@
 	"version": "1.0",
 	"blt_version": 2,
 	"image" : "logo.png",
-	"dependencies": [
-		"ANCR"
-	],
 	"hooks": [
 		{
 			"hook_id" : "lib/managers/menumanager",
